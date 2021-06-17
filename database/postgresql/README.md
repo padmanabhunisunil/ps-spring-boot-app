@@ -1,4 +1,4 @@
-# Postgres Course Setup
+# Postgres Setup
 
 ## Docker Postgres Setup
 
