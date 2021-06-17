@@ -1,3 +1,2 @@
-##My Spring Boot Application Resources
-
-Author: Sunil Padmanabhuni
+# My Spring Boot Application Resources
+## Author: Sunil Kumar Padmanabhuni
